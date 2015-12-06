@@ -1,0 +1,17 @@
+[{
+    "name": "Bill",
+    "family": "A",
+    "siblings": "X"
+}, {
+    "name": "Betty",
+    "family": "A",
+    "siblings": "Y"
+}, {
+    "name": "Fred",
+    "family": "B",
+    "siblings": "Y"
+}, {
+    "name": "Dave",
+    "family": "C",
+    "siblings": "Z"
+}]
