@@ -3,4 +3,7 @@ var result = run();
 while (!result.succeeded) {
     result = run();
 }
-console.log(result.assignments)
+
+for (var i = result.assignments.length - 1; i >= 0; i--) {
+    console.log(result.assignments[i])
+};
